@@ -25,3 +25,11 @@ The dump was read directly from the Winbond W29C020 BIOS chip using a hardware p
 - Motherboard: V66LT-2N
 - Chipset: Intel 440BX
 - BIOS chip: Winbond W29C020
+
+## Related article
+
+This BIOS dump comes from a working Siemens SCOVERY system described in detail here:
+
+👉 https://lepszyserwis.pl/x86_info/siemens-scovery-z-1999-roku-biurowy-komputer-ktory-dzis-swietnie-odnajduje-sie-w-swiecie-retro/
+
+The article includes hardware analysis, photos and real-world testing.
