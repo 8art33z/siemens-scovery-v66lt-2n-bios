@@ -51,3 +51,12 @@ Full teardown, photos and hardware analysis:
 
 Provided for archival and educational purposes.  
 Use at your own risk.
+
+## More content
+
+If you're interested in retro PC hardware, BIOS dumps and real-world analysis of old systems:
+
+👉 https://lepszyserwis.pl/
+
+More articles:
+👉 https://lepszyserwis.pl/x86_info/
