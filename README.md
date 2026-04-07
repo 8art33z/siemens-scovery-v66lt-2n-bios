@@ -1,6 +1,8 @@
 # Siemens SCOVERY V66LT-2N BIOS dump (W29C020)
 
-![Siemens SCOVERY V66LT-2N BIOS](siemens-scovery-v66lt-2n-bios.jpg)
+BIOS dump for Siemens SCOVERY V66LT-2N (Intel 440BX, Pentium III) extracted from a working system. Suitable for recovery, flashing and archival purposes.
+
+![Siemens SCOVERY V66LT-2N motherboard BIOS chip Winbond W29C020](siemens-scovery-v66lt-2n-bios.jpg)
 
 BIOS dump extracted from a working Siemens SCOVERY system (manufactured around 1999) equipped with the V66LT-2N motherboard.
 
@@ -27,11 +29,18 @@ The dump was read directly from the Winbond W29C020 BIOS chip using a hardware p
 - System: Siemens SCOVERY  
 - Motherboard: V66LT-2N  
 - Chipset: Intel 440BX  
-- CPU: Intel Pentium III (Slot 1)  
+- CPU: Intel Pentium II (Slot 1)  
 - Graphics: ATI Rage LT Pro (AGP, integrated)  
 - BIOS chip: Winbond W29C020  
 - Era: late 1990s / early 2000s  
 - Typical OS: Windows 98 SE, Windows 2000  
+
+---
+
+## 🔌 Compatibility
+
+This BIOS is intended specifically for Siemens SCOVERY systems with V66LT-2N motherboard (Intel 440BX chipset).  
+Do not use on other variants.
 
 ---
 
