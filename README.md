@@ -4,6 +4,8 @@ BIOS dump extracted from a working Siemens SCOVERY system (manufactured 1999) wi
 
 The dump was read directly from the Winbond W29C020 BIOS chip using a hardware programmer.
 
+![Siemens SCOVERY V66LT-2N BIOS](siemens-scovery-v66lt-2n-bios.jpg)
+
 ## File details
 
 - File: siemens-scovery-v66lt-2n-bios(W29C020).bin
